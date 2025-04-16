@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+  <span style="font-size:40px; color:#90ee90; font-weight:bold;">Hi there, I'm zark0-x</span>
+</div>
 
-<!--
-**zark0-x/zark0-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBsN2ZuNXQ4Z3M2aGg1NmZnNHRvbzRyZzNhZDFwbnMzdTE5dHNyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yQDDqb66GaaGs/giphy.gif" width="100"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zark0-x&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zark0-x&layout=compact&theme=radical" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 who im?
+- hannlover  
+- cSharp, py, c++
+
+---
+
+every week i want to be either a game developer or a robotics engineer(?)
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/ojRAjpIMJ68AAAAC/dogs-waiting.gif" width="600"/>
+</p>
+
+<sub>crafted with by zark0-x</sub>
