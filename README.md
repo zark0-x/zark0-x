@@ -13,7 +13,7 @@
 
 ### 🧠 who im?
 - hannlover  
-- cSharp, py, c++
+- cSharp, py, c++//arduino
 
 ---
 
