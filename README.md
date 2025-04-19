@@ -1,5 +1,5 @@
 <div align="center">
-  <span style="font-size:40px; color:#90ee90; font-weight:bold;">hi guys, im zark0-x</span>
+  <span style="font-size:40px; color:#90ee90; font-weight:bold;">hi guys, im zarko</span>
 </div>
 
 <p align="center">
