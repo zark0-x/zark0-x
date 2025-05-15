@@ -12,7 +12,8 @@
 </p>
 
 ### 🧠 who im?
-- hannlover  
+- soooo junior developer
+- hannlover
 - cSharp, py, c++//arduino
 
 ---
